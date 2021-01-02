@@ -20,7 +20,7 @@ html template is borrowed from https://weiweisun2018.github.io/ -->
                 <tr>
                     <td width="670">
                         <div id="toptitle">
-                        <h1>Guoguang Du</h1>
+                        <h1>Yi Dong</h1>
     			</div>
     			<h3> CloudMinds Technologies</h3>
     			<p>
